@@ -1,4 +1,4 @@
-# SCIP
+# SICP 
 
 This repository is functionally a personal recitation of the Lisp code found in
 *Structure and Interpretation of Computer Progams* by Alan Perlis. It includes
